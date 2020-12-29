@@ -8,3 +8,6 @@ dfgdfgdfg
 dfgdtjrjhdfjgkdk
 so we are simulating the conflict scenario by team mate fixes are taken and selecting which fixes are to be saved
 
+change 1
+change 2
+change 3 to test rebase with remote master
