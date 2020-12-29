@@ -2,12 +2,22 @@ abhi toh master pe hai to simulate team mate change ...yaha pe bhi changes huye 
 as master
 is still having pointed to same c base
 so we are simulating the conflict scenario
-
+sdf
 dfgdfgh
 dfgdfgdfg
 dfgdtjrjhdfjgkdk
 so we are simulating the conflict scenario by team mate fixes are taken and selecting which fixes are to be saved
 
+
 change 1
 change 2
 change 3 to test rebase with remote master
+
+csdfsd
+sdfsfsd
+sdfsdf
+sdgrea
+ssfdfdf
+esr
+dsfsdf
+ 3d1702b ( file 1updated on local master with conflict to test rebase)
