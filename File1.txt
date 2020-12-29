@@ -1,4 +1,4 @@
-
+abhi toh master pe hai to simulate team mate change ...yaha pe bhi changes huye simultaneously
 as master
 is still having pointed to same c base
 so we are simulating the conflict scenario
